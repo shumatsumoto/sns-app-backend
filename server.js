@@ -3,7 +3,7 @@ const app = express();
 const userRoute = require("./routes/users");
 const authRoute = require("./routes/auth");
 const postRoute = require("./routes/posts");
-const PORT = 3000;
+const PORT = 5500;
 const mongoose = require("mongoose");
 require("dotenv").config();
 
@@ -22,13 +22,5 @@ app.use(express.json());
 app.use("/api/users", userRoute);
 app.use("/api/auth", authRoute);
 app.use("/api/posts", postRoute);
-
-// app.get("/", (req, res) => {
-//   res.send("hello, express");
-// });
-
-// app.get("/users", (req, res) => {
-//   res.send("Users, express");
-// });
 
 app.listen(PORT, () => console.log("サーバー起動"));
