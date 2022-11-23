@@ -16,7 +16,7 @@
 
 ## :pencil2: Overview
 
-Building a full-fledged SNS application from scratch with MERN full-stack development (back-end edition)
+Building a full-fledged SNS application from scratch with MERN full-stack development (back-end edition).
 
 ## :hammer: Requirement
 
