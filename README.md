@@ -5,9 +5,9 @@
 <h1 align="center">SNS App Backend</h1>
 
 <div align="center">
-  <a href="">
-    <img src="" height="35">
-  </a>&nbsp;
+  <a href="https://nodejs.org/ja/">
+    <img src="https://user-images.githubusercontent.com/11171872/182286544-bc445448-284c-451e-aa73-ed165c9b0d64.png" alt="Node.js" height="35">
+  </a>
 </div>
 
 ## :computer: URL
@@ -21,6 +21,7 @@ Building a full-fledged SNS application from scratch with MERN full-stack develo
 ## :hammer: Requirement
 
 - macOS
+- Node.js
 
 ## :pushpin: Usage
 
